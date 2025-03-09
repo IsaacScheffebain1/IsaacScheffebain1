@@ -10,6 +10,9 @@
 
 The command `printf` displays output on the console.
 
+> [!WARNING]
+> You've been warned.
+
 ```
 #include <stdio.h>
 
